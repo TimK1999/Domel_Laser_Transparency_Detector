@@ -16,4 +16,4 @@
 > [!IMPORTANT]  
 > Read the contribution guideline before adding a pull request.
 
-<img width="3000" height="3570" alt="Image" src="https://github.com/user-attachments/assets/6abfad2a-7a47-4c3a-8bcb-f6d269b419e0" />
+<img width="1000" height="1190" alt="Image" src="https://github.com/user-attachments/assets/6abfad2a-7a47-4c3a-8bcb-f6d269b419e0" />
