@@ -20,10 +20,10 @@
 <img width="512" height="620" alt="Image" src="https://github.com/user-attachments/assets/4ed264f1-1f2d-4c63-8e54-80f8ff1c6fce" />
 
 > [!NOTE]
-> Pritisk na enkoder ima različne funkcije glede na dolžino pritiska:
-> * kratek pritisk - potrjevanje funkcij,
-> * 1s - izbira podmenija in izhod iz podmenija,
-> * 5s - ponastavitev naprave na tovarniške nastavitve.
+> Pritisk na enkoder ima različne funkcije glede na trajanje pritiska:
+> * kratek pritisk: potrditev funkcije,
+> * 1 s: izbira podmenija oziroma izhod iz podmenija,
+> * 5 s: ponastavitev naprave na tovarniške nastavitve.
 
 
 
