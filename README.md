@@ -1,13 +1,9 @@
 # Naprava za detekcijo laserske transparentnosti
 
 > **Navodila za operaterja**
-
 > Pričujoče delo je kratek uvod v rokovanje z merilno opremo za detekcijo laserske prosojnosti ležajnega ščita.
-
 > Napravo priključite v električno omrežje 230 V; priključek se nahaja na zadnji strani naprave. Za napajanje električnih komponent vklopite tudi stikalo, ki se nahaja poleg priključka.
-
 > S tem je naprava pripravljena za uporabo. Previdno vstavite ležajni ščit na nosilec. Vpetje je zasnovano po metodi poka-yoke, kar zagotavlja, da nepravilno vpetje ležajnega ščita na zatiče ni možno.
-
 > Ko je ležajni ščit pravilno vpet, nadzorna lučka prikazuje stanje ustrezne oziroma neustrezne transmisivnosti vzorca:
 > * Zelena lučka pomeni, da je kos optično dovolj prepusten in ustrezen za proces varjenja na motor.
 > * Rdeča lučka pomeni optično neustrezen kos, ki ga ni mogoče ustrezno zavariti na motor, zato gre na izmet.
