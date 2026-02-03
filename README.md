@@ -3,9 +3,15 @@
 > **Navodila za operaterja**
 
 > Pričujoče delo je kratek uvod v rokovanje z merilno opremo za detekcijo laserske prosojnosti ležajnega ščita.
-> Napravo priključite v električno omrežje 230 V; priključek se nahaja na zadnji strani naprave. Poleg tega, za napajanje električnih komponent ne pozabite vključiti stikala, ki se nahaja poleg priključka.
-> S tem je naprava pripravljena za uporabo. Previdno vstavite ležajni ščit na nosilec - vpetje je snovano po metodi "poka-yoke", kar zagotovi, da nepravilno vpetje ležajnega ščita na zatiče ni možno.
-> Ko je ležajni ščit pravilno vpet, nadzorna lučka odraža stanje ustrezne ali neustrezne transmisivnosti vzorca - <code style="color : green">Zelena</code>. lučka pomeni, da je kos optično dovolj prepusten in ustrezen za proces varjenja na motor. <span style="color:red">RDEČA</span> lučka predstavlja optično neustrezen kos, ki ga ni možno ustrezno zavariti na motor, torej gre na izmet. <span style="color:blue">MODRA</span> lučka predstavlja vmesno stanje, tj. za motorje, katerih optična prepustnost je vprašljiva. Slednje je potrebno zbirati ločeno, in preveriti transmisivnost še z alternativnimi merilnimi metodami - kontaktiraj oddelek Razvoj Tehnologij.
+
+> Napravo priključite v električno omrežje 230 V; priključek se nahaja na zadnji strani naprave. Za napajanje električnih komponent vklopite tudi stikalo, ki se nahaja poleg priključka.
+
+> S tem je naprava pripravljena za uporabo. Previdno vstavite ležajni ščit na nosilec. Vpetje je zasnovano po metodi poka-yoke, kar zagotavlja, da nepravilno vpetje ležajnega ščita na zatiče ni možno.
+
+> Ko je ležajni ščit pravilno vpet, nadzorna lučka prikazuje stanje ustrezne oziroma neustrezne transmisivnosti vzorca:
+> * Zelena lučka pomeni, da je kos optično dovolj prepusten in ustrezen za proces varjenja na motor.
+> * Rdeča lučka pomeni optično neustrezen kos, ki ga ni mogoče ustrezno zavariti na motor, zato gre na izmet.
+> * Modra lučka označuje vmesno stanje (npr. pri kosih, kjer je optična prepustnost vprašljiva). Takšne kose je treba zbirati ločeno in transmisivnost dodatno preveriti z alternativnimi merilnimi metodami. V tem primeru kontaktirajte oddelek Razvoj tehnologij.
 
 > [!CAUTION]
 > Nikoli ne glej neposredno v laserski vir! To lahko resno poškoduje vid!
