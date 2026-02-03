@@ -8,10 +8,10 @@
 > Use the command line to detect and resolve the errors!
 
 > [!WARNING]
-> Nikoli ne glej neposredno v laserski vir!
+> Ne odstranjuj aluminijastega nosilca za pozicioniranje ležajnega ščita, ko je naprava vklopljena. Zaradi visoke odbojnosti se lahko laserski žarek odbije nazaj v oči operaterja, kar lahko povzroči resne poškodbe vida!
 
 > [!CAUTION]
-> Don't execute the code without commenting the test cases.
+> Nikoli ne glej neposredno v laserski vir!
 
 > [!IMPORTANT]  
 > Read the contribution guideline before adding a pull request.
