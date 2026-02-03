@@ -7,7 +7,7 @@
 > [!TIP]
 > Use the command line to detect and resolve the errors!
 
-> [!POZOR]
+> [!WARNING]
 > Nikoli ne glej neposredno v laserski vir!
 
 > [!CAUTION]
