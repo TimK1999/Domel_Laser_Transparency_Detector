@@ -1,15 +1,26 @@
 # Naprava za detekcijo laserske transparentnosti
-> Kratka navodila za uporabo
+
+> **Navodila za operaterja**
+
+> [!CAUTION]
+> Nikoli ne glej neposredno v laserski vir!
+
+> [!WARNING]
+> Ne odstranjuj aluminijastega nosilca za pozicioniranje ležajnega ščita, ko je naprava vklopljena. Zaradi visoke odbojnosti se lahko laserski žarek odbije nazaj v oči operaterja, kar lahko povzroči resne poškodbe vida!
+> Vedno poskrbi, da je naprava ugasnjena, ko se menja vpetje ležajnega ščita.
+
+
+>
+> 
+>
+
 
 > [!NOTE]
 > I want the readers to read it carefully as it contains many important docs.
 
 > [!TIP]
-> Use the command line to detect and resolve the errors!
+> Nasvet
 
-> [!WARNING]
-> Ne odstranjuj aluminijastega nosilca za pozicioniranje ležajnega ščita, ko je naprava vklopljena. Zaradi visoke odbojnosti se lahko laserski žarek odbije nazaj v oči operaterja, kar lahko povzroči resne poškodbe vida!
-> Vedno poskrbi, da je naprava ugasnjena, ko se menja vpetje ležajnega ščita.
 
 > [!CAUTION]
 > Nikoli ne glej neposredno v laserski vir!
