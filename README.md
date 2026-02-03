@@ -1,6 +1,7 @@
 # Naprava za detekcijo laserske transparentnosti
 
 > **Navodila za operaterja**
+
 > Pričujoče delo je kratek uvod v rokovanje z merilno opremo za detekcijo laserske prosojnosti ležajnega ščita.
 > Napravo priključite v električno omrežje 230 V; priključek se nahaja na zadnji strani naprave. Poleg tega, za napajanje električnih komponent ne pozabite vključiti stikala, ki se nahaja poleg priključka.
 > S tem je naprava pripravljena za uporabo. Previdno vstavite ležajni ščit na nosilec - vpetje je snovano po metodi "poka-yoke", kar zagotovi, da nepravilno vpetje ležajnega ščita na zatiče ni možno.
@@ -13,16 +14,12 @@
 > Ne odstranjuj aluminijastega nosilca za pozicioniranje ležajnega ščita, ko je naprava vklopljena. Zaradi visoke odbojnosti se lahko laserski žarek odbije nazaj v oči operaterja, kar lahko povzroči resne poškodbe vida!
 > Vedno poskrbi, da je naprava ugasnjena, ko se menja vpetje ležajnega ščita.
 
-> [!NOTE]
-> I want the readers to read it carefully as it contains many important docs.
-
-> [!TIP]
-> Nasvet
-
-> [!CAUTION]
-> Nikoli ne glej neposredno v laserski vir!
-
-> [!IMPORTANT]  
-> Read the contribution guideline before adding a pull request.
-
 <img width="512" height="620" alt="Image" src="https://github.com/user-attachments/assets/4ed264f1-1f2d-4c63-8e54-80f8ff1c6fce" />
+
+> [!NOTE]
+> Pritisk na enkoder ima različne funkcije glede na dolžino pritiska.
+> - afa
+> - asd
+
+
+
