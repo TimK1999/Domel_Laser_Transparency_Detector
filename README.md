@@ -8,7 +8,7 @@
 > Ko je ležajni ščit pravilno vpet, nadzorna lučka odraža stanje ustrezne ali neustrezne transmisivnosti vzorca - <span style="color:green">ZELENA</span>. lučka pomeni, da je kos optično dovolj prepusten in ustrezen za proces varjenja na motor. <span style="color:red">RDEČA</span> lučka predstavlja optično neustrezen kos, ki ga ni možno ustrezno zavariti na motor, torej gre na izmet. <span style="color:blue">MODRA</span> lučka predstavlja vmesno stanje, tj. za motorje, katerih optična prepustnost je vprašljiva. Slednje je potrebno zbirati ločeno, in preveriti transmisivnost še z alternativnimi merilnimi metodami - kontaktiraj oddelek Razvoj Tehnologij.
 
 > [!CAUTION]
-> Nikoli ne glej neposredno v laserski vir!
+> Nikoli ne glej neposredno v laserski vir! To lahko resno poškoduje vid!
 
 > [!WARNING]
 > Ne odstranjuj aluminijastega nosilca za pozicioniranje ležajnega ščita, ko je naprava vklopljena. Zaradi visoke odbojnosti se lahko laserski žarek odbije nazaj v oči operaterja, kar lahko povzroči resne poškodbe vida!
@@ -18,8 +18,9 @@
 
 > [!NOTE]
 > Pritisk na enkoder ima različne funkcije glede na dolžino pritiska.
-> - afa
-> - asd
+> * kratek pritisk - potrjevanje funkcij,
+> * 1s - izbira podmenija in izhod iz podmenija,
+> * 5s - ponastavitev naprave na tovarniške nastavitve.
 
 
 
