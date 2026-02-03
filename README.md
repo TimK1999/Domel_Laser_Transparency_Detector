@@ -11,11 +11,11 @@
 > * Modra lučka označuje vmesno stanje (npr. pri kosih, kjer je optična prepustnost vprašljiva). Takšne kose je treba zbirati ločeno in transmisivnost dodatno preveriti z alternativnimi merilnimi metodami. V tem primeru kontaktirajte oddelek Razvoj tehnologij.
 
 > [!CAUTION]
-> Nikoli ne glej neposredno v laserski vir! To lahko resno poškoduje vid!
+> Nikoli ne glejte neposredno v laserski vir! To lahko resno poškoduje vid.
 
 > [!WARNING]
-> Ne odstranjuj aluminijastega nosilca za pozicioniranje ležajnega ščita, ko je naprava vklopljena. Zaradi visoke odbojnosti se lahko laserski žarek odbije nazaj v oči operaterja, kar lahko povzroči resne poškodbe vida!
-> Vedno poskrbi, da je naprava ugasnjena, ko se menja vpetje ležajnega ščita.
+> Ne odstranjujte aluminijastega nosilca za pozicioniranje ležajnega ščita, ko je naprava vklopljena. Zaradi visoke odbojnosti se lahko laserski žarek odbije proti operaterju in povzroči resne poškodbe vida.
+> Vedno poskrbite, da je naprava izklopljena, preden menjate vpetje ležajnega ščita.
 
 <img width="512" height="620" alt="Image" src="https://github.com/user-attachments/assets/4ed264f1-1f2d-4c63-8e54-80f8ff1c6fce" />
 
